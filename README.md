@@ -63,7 +63,7 @@ I am actively studying **ethical hacking methodologies, cloud penetration testin
 ## 🔗 Connect With Me  
 
 📌 **GitHub:** 
-📌 **LinkedIn:** linkedin.com/in/shivani-vadamodula-828111187 
+📌 **LinkedIn:** linkedin.com/in/shivani-828111187
 📌 **Email:** shivani.vadamodula20@gmail.com  
 
 I’m always open to discussing **Azure security, IAM best practices, and cybersecurity research.** Let’s connect and collaborate! 🚀  
