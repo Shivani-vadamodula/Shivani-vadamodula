@@ -4,11 +4,11 @@
 
 ## 🚀 About Me  
 
-- 🔑 **Global Admin Credentials Holder** | Expert in **Azure AD & M365 Security**  
-- 💡 Strong knowledge of **SC-300 concepts** (but currently uncertified)  
-- 🏢 **Extensive hands-on experience** in **cross-tenant management, licensing, group/user management, and app registrations**  
-- 🚀 **Passionate about Ethical Hacking**, transitioning from **Azure IAM** to broader **offensive security & penetration testing**  
-- 🔍 Exploring **Identity Exploits, Zero Trust Security, and Cloud Pentesting**  
+- **Global Admin Credentials Holder** | Experienced in **Azure AD & M365 Security**  
+- Strong knowledge of **SC-300 concepts**  
+- **Extensive hands-on experience** in **cross-tenant management, licensing, group/user management, and app registrations**  
+- **Passionate about Ethical Hacking**, transitioning from **Azure IAM** to broader **offensive security & penetration testing**  
+- Exploring **Identity Exploits, Zero Trust Security, and Cloud Pentesting**  
 
 ---
 
