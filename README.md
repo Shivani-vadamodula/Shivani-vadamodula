@@ -1,14 +1,14 @@
 # 🔐 Senior IAM Engineer | Identity Architect | Zero-Trust Specialist 
 
-👋 **Welcome!** I'm a **Cybersecurity Engineer specializing in Azure Identity and Access Management (IAM)** with hands-on experience in securing cloud environments. With a deep understanding of **Azure AD, Conditional Access, Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), and Microsoft 365 security**,  passionate about architecting enterprise identity frameworks, automating lifecycle management, and implementing Zero-Trust security at scale.
+👋 **Welcome!** I'm a **Cybersecurity Engineer specializing in Azure Identity and Access Management (IAM)** with hands-on experience in securing cloud environments. With a deep understanding of **Azure AD, Conditional Access, Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), and Microsoft 365 security**, I am passionate about architecting enterprise identity frameworks, automating lifecycle management, and implementing Zero-Trust security at scale.
 
 ## 🚀 About Me  
 
 - **Global Admin Credentials Holder** | Experienced in **Azure AD & M365 Security**  
 - Strong knowledge of **SC-300 concepts**  
 - **Experienced** in **cross-tenant management, licensing, group/user management, and app registrations**    
-- Experienced in migrating legacy authentication protocols (Saml, OAuth/OIDC) and proven track record in Identity Governance and PIM implementation. 
-- **Governance Expert:** Proven track record in implementing **Privileged Identity Management (PIM)** and automated **Access Reviews**
+- **Identity Governance Architect** - Expert in neutralizing identity-based risks by orchestrating Privileged Identity Management (PIM) and automated Access Reviews, ensuring a continuous state of Least Privilege (PoLP) across enterprise tenants.
+- Spearheaded the transition from legacy authentication to **SAML 2.0 and OAuth/OIDC** frameworks, reducing the global attack surface while delivering a seamless, secure SSO user experience.
 ---
 
 ## 🛠️ Skills & Expertise  
@@ -22,7 +22,6 @@
 ✅ Microsoft 365 Security Best Practices  
  
 ⚡ Zero Trust Architecture in IAM  
-⚡ Identity Exploits & Cloud Security Attacks  
 ⚡ Security Monitoring & Incident Response (M365 Defender, Sentinel)    
 ⚡ Learning **Java, PowerShell, & Security Tools**  
 
