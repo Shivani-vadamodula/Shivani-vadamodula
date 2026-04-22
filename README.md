@@ -7,7 +7,7 @@
 - **Global Admin Credentials Holder** | Experienced in **Azure AD & M365 Security**  
 - Strong knowledge of **SC-300 concepts**  
 - **Experienced** in **cross-tenant management, licensing, group/user management, and app registrations**    
-- Exploring **Identity Exploits, Zero Trust Security, and Cloud Pentesting**  
+- Experienced in migrating legacy authentication protocols (Saml, OAuth/OIDC) and proven track record in Identity Governance and PIM implementation. 
 
 ---
 
