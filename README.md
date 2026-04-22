@@ -1,4 +1,4 @@
-# 🔐 Azure IAM Engineer | Cloud Security | Ethical Hacking Aspirant  
+# 🔐 Azure IAM Engineer | Cloud Security 
 
 👋 **Welcome!** I'm a **Cybersecurity Engineer specializing in Azure Identity and Access Management (IAM)** with hands-on experience in securing cloud environments. With a deep understanding of **Azure AD, Conditional Access, Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), and Microsoft 365 security**, I am passionate about **building secure identity frameworks and advancing into Ethical Hacking.**  
 
@@ -6,8 +6,7 @@
 
 - **Global Admin Credentials Holder** | Experienced in **Azure AD & M365 Security**  
 - Strong knowledge of **SC-300 concepts**  
-- **Experienced** in **cross-tenant management, licensing, group/user management, and app registrations**  
-- **Passionate about Ethical Hacking**, transitioning from **Azure IAM** to broader **offensive security & penetration testing**  
+- **Experienced** in **cross-tenant management, licensing, group/user management, and app registrations**    
 - Exploring **Identity Exploits, Zero Trust Security, and Cloud Pentesting**  
 
 ---
@@ -21,8 +20,7 @@
 ✅ Application Registrations & API Permissions  
 ✅ Role-Based Access Control (RBAC) & Least Privilege Access  
 ✅ Microsoft 365 Security Best Practices  
-
-### 🔹 **Cybersecurity & Ethical Hacking (Aspiring)**  
+ 
 ⚡ Zero Trust Architecture in IAM  
 ⚡ Identity Exploits & Cloud Security Attacks  
 ⚡ Security Monitoring & Incident Response (M365 Defender, Sentinel)  
