@@ -1,6 +1,6 @@
-# 🔐 Azure IAM Engineer | Cloud Security 
+# 🔐 Senior IAM Engineer | Identity Architect | Zero-Trust Specialist 
 
-👋 **Welcome!** I'm a **Cybersecurity Engineer specializing in Azure Identity and Access Management (IAM)** with hands-on experience in securing cloud environments. With a deep understanding of **Azure AD, Conditional Access, Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), and Microsoft 365 security**, I am passionate about **building secure identity frameworks and advancing into Ethical Hacking.**  
+👋 **Welcome!** I'm a **Cybersecurity Engineer specializing in Azure Identity and Access Management (IAM)** with hands-on experience in securing cloud environments. With a deep understanding of **Azure AD, Conditional Access, Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), and Microsoft 365 security**,  passionate about architecting enterprise identity frameworks, automating lifecycle management, and implementing Zero-Trust security at scale.
 
 ## 🚀 About Me  
 
@@ -8,7 +8,7 @@
 - Strong knowledge of **SC-300 concepts**  
 - **Experienced** in **cross-tenant management, licensing, group/user management, and app registrations**    
 - Experienced in migrating legacy authentication protocols (Saml, OAuth/OIDC) and proven track record in Identity Governance and PIM implementation. 
-
+- **Governance Expert:** Proven track record in implementing **Privileged Identity Management (PIM)** and automated **Access Reviews**
 ---
 
 ## 🛠️ Skills & Expertise  
@@ -23,22 +23,8 @@
  
 ⚡ Zero Trust Architecture in IAM  
 ⚡ Identity Exploits & Cloud Security Attacks  
-⚡ Security Monitoring & Incident Response (M365 Defender, Sentinel)  
-⚡ Penetration Testing Basics (Azure AD Pentesting Research)  
+⚡ Security Monitoring & Incident Response (M365 Defender, Sentinel)    
 ⚡ Learning **Java, PowerShell, & Security Tools**  
-
----
-
-## 📌 Featured Repositories  
-
-### 🔸 [Azure-IAM-Security](https://github.com/yourgithub/azure-iam-security)  
-📌 Scripts & best practices for **IAM security automation** in Azure AD.
-
-### 🔸 [Conditional-Access-Policies](https://github.com/yourgithub/conditional-access-policies)  
-📌 Predefined Conditional Access templates for **Zero Trust IAM**.
-
-### 🔸 [Azure-M365-Security](https://github.com/yourgithub/azure-m365-security)  
-📌 Guides & scripts for securing **Microsoft 365 environments**.
 
 ---
 
@@ -61,8 +47,9 @@ I am actively studying **ethical hacking methodologies, cloud penetration testin
 ## 🔗 Connect With Me  
 
 📌 **GitHub:** 
-📌 **LinkedIn:** linkedin.com/in/shivani-828111187
+📌 **LinkedIn:** linkedin.com/in/shivani-vadamodula-828111187
 📌 **Email:** shivani.vadamodula20@gmail.com  
+📌 **Ph:** +1 (405)503-5126
 
-I’m always open to discussing **Azure security, IAM best practices, and cybersecurity research.** Let’s connect and collaborate! 🚀  
+I’m always open to discussing **Azure security, IAM best practices** Let’s connect and collaborate! 🚀  
 
